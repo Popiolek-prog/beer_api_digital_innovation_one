@@ -11,6 +11,17 @@ Durante a sessão, serão abordados os seguintes tópicos:
 * Desenvolvimento de testes unitários para validação de funcionalides básicas: criação, listagem, consulta por nome e exclusão de cervejas.
 * TDD: apresentação e exemplo prático em 2 funcionaliades importantes: incremento e decremento do número de cervejas no estoque.
 
+---
+
+## ✅ Status dos Testes
+
+Todos os testes unitários foram executados com sucesso:
+
+Tests run: 21, Failures: 0, Errors: 0, Skipped: 0 
+BUILD SUCCESS
+
+---
+
 Para executar o projeto no terminal, digite o seguinte comando:
 
 ```shell script
@@ -51,6 +62,7 @@ Abaixo, seguem links bem bacanas, sobre tópicos mencionados durante a aula:
 * [Referência pirâmide de testes - Martin Fowler](https://martinfowler.com/articles/practical-test-pyramid.html#TheImportanceOftestAutomation)
 
 [Neste link](https://drive.google.com/file/d/1KPh19mvyKirorOI-UsEYHKkmZpet3Ks6/view?usp=sharing), seguem os slides apresentados como o roteiro utilizado para o desenvolvimento do projeto da nossa sessão.
+
 
 
 
